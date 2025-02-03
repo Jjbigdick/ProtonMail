@@ -6,7 +6,7 @@ Able to parralel solving multiple CAPTCHAs with multiprocessing to boost workflo
   - Front: J's Detection
   - Middle: OpenCV and Brutal-Force calcualate object coordinates and movement.
   
--Automation:
+- Automation:
   - Selenium WebDriver Action to calculate related canvas coordinates and direct movements.
 
 - Anti-Detection Layer:
