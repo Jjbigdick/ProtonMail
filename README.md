@@ -16,4 +16,5 @@ Able to parralel solving multiple CAPTCHAs with multiprocessing to boost workflo
 
 ![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/677d965e-0b14-4e25-8c65-2761828a3ca0)
 
-![Screenshot 2023-07-20 213147](![image](https://github.com/user-attachments/assets/75016bd5-6994-4d08-9b32-0bfee8b771e8)](https://streamable.com/cl47bj)
+![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/6a5c0b1a-f13e-4a04-8930-9422bea3611f)](https://streamable.com/o2g281)
+
