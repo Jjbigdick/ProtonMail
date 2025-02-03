@@ -10,8 +10,8 @@ Able to parralel solving multiple CAPTCHAs with multiprocessing to boost workflo
   - Selenium WebDriver Action to calculate related canvas coordinates and direct movements.
 
 - Anti-Detection Layer:
-  By observing the ProtonMail Detection Behavirour:
-  Used Proxy API to combat ProtonMail IP detection algorithmn regarding to account.
+  - By observing the ProtonMail Detection Behavirour:
+  - Used Proxy API to combat ProtonMail IP detection algorithmn regarding to account.
   
 
 ![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/677d965e-0b14-4e25-8c65-2761828a3ca0)
