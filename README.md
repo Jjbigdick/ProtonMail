@@ -13,8 +13,8 @@ Able to parralel solving multiple CAPTCHAs with multiprocessing to boost workflo
   - By observing the ProtonMail Detection Behavirour:
   - Used Proxy API to combat ProtonMail IP detection algorithmn regarding to account.
   
-
-![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/677d965e-0b14-4e25-8c65-2761828a3ca0)
-
 [![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/6a5c0b1a-f13e-4a04-8930-9422bea3611f)](https://streamable.com/o2g281)
 
+Under the Hood:
+
+![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/677d965e-0b14-4e25-8c65-2761828a3ca0)
