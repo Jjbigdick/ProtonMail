@@ -1,7 +1,8 @@
 # ProtonMail CAPTCHA Solver: Parallel Automation & Anti-Detection  
-*High-performance system automating ProtonMail account creation solving ProtonMail CAPTCHA and HCAPTCHA (with 2CAPTCHA API) combined with 99% success rate.*
-
-**DEMO**:
+##High-performance system automating ProtonMail account creation solving ProtonMail CAPTCHA and HCAPTCHA (with 2CAPTCHA API) combined with 99% success rate.
+---
+##DEMO:
+###Parallel luanching three Browsers solving ProtonMail Puzzle CAPTCHA and Hcaptcha.
 [![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/6a5c0b1a-f13e-4a04-8930-9422bea3611f)](https://streamable.com/cl47bj)
 
 ### Key Achievements  
