@@ -1,31 +1,31 @@
-# ProtonMail CAPTCHA Automation & Anti-Detection System (IP Obfuscation)
-A high-performance CAPTCHA-solving system with 99% success rate designed to automate ProtonMail account creation while bypassing detection mechanisms. Combines custom pixel-analysis algorithms with anti-detection layers to solve CAPTCHAs in parallel.
-
+# ProtonMail CAPTCHA Solver: Parallel Automation & Anti-Detection  
+*High-performance system automating ProtonMail account creation with 99% success rate.*
 
 **DEMO**:
 
 "Solving 3 CAPTCHAs in parallel (ProtonMail - J's Detection + hCaptcha -2CAPTCHA API)."
 [![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/6a5c0b1a-f13e-4a04-8930-9422bea3611f)](https://streamable.com/cl47bj)
 
-### Features
-- **J’s Detection Algorithm**: Custom pixel-analysis engine for real-time CAPTCHA grid detection.  
-- **Parallel CAPTCHA Solving**: Utilizes multiprocessing to solve multiple CAPTCHAs simultaneously (ProtonMail, hCaptcha).  
-- **Anti-Detection Layer**:  
-  - IP Rotation via proxy APIs to evade ProtonMail’s IP tracking.  
-  - Simulated human mouse movements using Selenium WebDriver.  
-- **Computer Vision Integration**: OpenCV for object coordinate mapping and trajectory calculation.
+### Key Achievements  
+- 99% Success Rate via custom pixel analysis.  
+- Solves 8 CAPTCHAs (one machine) in parallel with Python multiprocessing.  
+- Completed stealth via proxy rotation.
+  
+### Features  
+- **J’s Detection Algorithm** (self-built ProtonMail solver)  
+- **Multi-CAPTCHA Parallel Solving**  
+- **Anti-Detection Engine** (IP rotation and mouse obfuscation)  
+- **Computer Vision Pipeline** (OpenCV + brute-force detection)  
 
-### Technical Details  
-- **Tools**: Python, OpenCV, Selenium, Proxy and 2CAPTCHA APIs.  
-- **Algorithms**: Brute-force coordinate mapping, multithreaded task distribution.
+### Technical Stack  
+- Python, Selenium, OpenCV, Proxy APIs, 2Captcha API  
 
 ### Why This Project?  
 - Solves a real-world challenge in automating secure email account creation.  
-- Demonstrates reverse-engineering, performance optimization, and anti-detection strategies.  
-
-### Future Improvements  
-- Integrated with ML technics able to general solving multiple CAPTCHA types without further design.
-- Expand to other CAPTCHA types (reCAPTCHA v3).  
-
+- Demonstrates reverse-engineering, performance optimization, and anti-detection strategies.
+- 
+### Future Roadmap  
+- **Machine Learning Integration**: Train a CNN for adaptive CAPTCHA solving (reduce brute-force reliance).  
+- **Multi-Platform Support**: Extend solver to reCAPTCHA v3 and Cloudflare Turnstile.  
 ![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/677d965e-0b14-4e25-8c65-2761828a3ca0)
 
