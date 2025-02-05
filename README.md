@@ -1,11 +1,13 @@
-# ProtonMail
+# ProtonMail J's Detection CAPTCHA Solver and Automation
 ProtonMail Account Creation System is a fun and personal project with self-created pixel analysising and detction algorithm, J's Detection, and anti-detection layer.
 Able to parralel solving multiple CAPTCHAs with multiprocessing to boost workflow.
 
-- Solver: 
-  - Front: J's Detection
-  - Middle: OpenCV and Brutal-Force calcualate object coordinates and movement.
-  
+- Solvers:
+  - ProtonMail CAPTCHA Solver:
+    - Front: J's Detection
+    - Middle: OpenCV and Brutal-Force calcualate object coordinates and movement.
+ - 
+    
 - Automation:
   - Selenium WebDriver Action to calculate related canvas coordinates and direct movements.
 
