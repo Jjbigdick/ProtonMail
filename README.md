@@ -1,4 +1,4 @@
-# ProtonMail J's Detection CAPTCHA Solver and Automation
+# ProtonMail CAPTCHA Automation & Anti-Detection System (IP Obfuscation)
 ProtonMail Account Creation System is a fun and personal project with self-created pixel analysising and detction algorithm, J's Detection, and anti-detection layer.
 Able to parralel solving multiple CAPTCHAs with multiprocessing to boost workflow.
 
