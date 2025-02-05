@@ -3,7 +3,7 @@ ProtonMail Account Creation System is a fun and personal project with self-creat
 Able to parralel solving multiple CAPTCHAs with multiprocessing to boost workflow.
 
 
-**DEMO**:
+**DEMO** (parallel solving three CAPTCHAs(ProtonMail and Hcaptcha):
 
 [![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/6a5c0b1a-f13e-4a04-8930-9422bea3611f)](https://streamable.com/cl47bj)
 
