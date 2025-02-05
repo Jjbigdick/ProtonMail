@@ -16,7 +16,15 @@ A high-performance CAPTCHA-solving system designed to automate ProtonMail accoun
 - 
 ### Technical Details  
 - **Tools**: Python, OpenCV, Selenium, Proxy APIs.  
-- **Algorithms**: Brute-force coordinate mapping, multithreaded task distribution.  
+- **Algorithms**: Brute-force coordinate mapping, multithreaded task distribution.
+
+### Why This Project?  
+- Solves a real-world challenge in automating secure email account creation.  
+- Demonstrates reverse-engineering, performance optimization, and anti-detection strategies.  
+
+### Future Improvements  
+- Integrated with ML technics able to general solving multiple CAPTCHA types without further design.
+- Expand to other CAPTCHA types (reCAPTCHA v3).  
 
 ![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/677d965e-0b14-4e25-8c65-2761828a3ca0)
 
