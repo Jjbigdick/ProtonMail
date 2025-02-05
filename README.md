@@ -2,8 +2,6 @@
 *High-performance system automating ProtonMail account creation with 99% success rate.*
 
 **DEMO**:
-
-"Solving 3 CAPTCHAs in parallel (ProtonMail - J's Detection + hCaptcha -2CAPTCHA API)."
 [![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/6a5c0b1a-f13e-4a04-8930-9422bea3611f)](https://streamable.com/cl47bj)
 
 ### Key Achievements  
