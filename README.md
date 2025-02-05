@@ -12,7 +12,11 @@ A high-performance CAPTCHA-solving system designed to automate ProtonMail accoun
 - **Anti-Detection Layer**:  
   - IP Rotation via proxy APIs to evade ProtonMail’s IP tracking.  
   - Simulated human mouse movements using Selenium WebDriver.  
-- **Computer Vision Integration**: OpenCV for object coordinate mapping and trajectory calculation.  
+- **Computer Vision Integration**: OpenCV for object coordinate mapping and trajectory calculation.
+- 
+### Technical Details  
+- **Tools**: Python, OpenCV, Selenium, Proxy APIs.  
+- **Algorithms**: Brute-force coordinate mapping, multithreaded task distribution.  
 
 ![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/677d965e-0b14-4e25-8c65-2761828a3ca0)
 
