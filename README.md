@@ -6,18 +6,13 @@ A high-performance CAPTCHA-solving system designed to automate ProtonMail accoun
 "Solving 3 CAPTCHAs in parallel (ProtonMail + hCaptcha)."
 [![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/6a5c0b1a-f13e-4a04-8930-9422bea3611f)](https://streamable.com/cl47bj)
 
-- Solvers:
-  - ProtonMail CAPTCHA Solver:
-    - Front: J's Detection
-    - Middle: OpenCV and Brutal-Force calcualate object coordinates and movement.
- - 
-    
-- Automation:
-  - Selenium WebDriver Action to calculate related canvas coordinates and direct movements.
-
-- Anti-Detection Layer:
-  - By observing the ProtonMail Detection Behavirour:
-  - Used Proxy API to combat ProtonMail IP detection algorithmn regarding to account.
+### Features
+- **Parallel CAPTCHA Solving**: Utilizes multiprocessing to solve multiple CAPTCHAs simultaneously (ProtonMail, hCaptcha).  
+- **J’s Detection Algorithm**: Custom pixel-analysis engine for real-time CAPTCHA grid detection.  
+- **Anti-Detection Layer**:  
+  - IP Rotation via proxy APIs to evade ProtonMail’s IP tracking.  
+  - Simulated human mouse movements using Selenium WebDriver.  
+- **Computer Vision Integration**: OpenCV for object coordinate mapping and trajectory calculation.  
 
 ![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/677d965e-0b14-4e25-8c65-2761828a3ca0)
 
