@@ -11,7 +11,7 @@ using: j's detection, OpenCV, Selenium
 [![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/6a5c0b1a-f13e-4a04-8930-9422bea3611f)](https://streamable.com/cl47bj)
 
 ### Key Achievements  
-- 99% Success Rate via custom pixel analysis.  
+- 100% Success Rate via custom pixel analysis.  
 - Solves 8 CAPTCHAs (one machine) in parallel with Python multiprocessing.  
 - Completed stealth via proxy rotation.
   
