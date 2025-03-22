@@ -5,7 +5,7 @@ success rate: 100% on all ProtonMail CAPTCHAs.
 using: j's detection, OpenCV, Selenium 
 
 ### DEMO
-#### Parallel luanching three Browsers solving ProtonMail Puzzle CAPTCHA and Hcaptcha.
+#### Three Browsers parallism solving ProtonMail CAPTCHA and Hcaptcha.
 [![Screenshot 2023-07-20 213147](https://github.com/user-attachments/assets/6a5c0b1a-f13e-4a04-8930-9422bea3611f)](https://streamable.com/cl47bj)
 
 ### Key Achievements  
