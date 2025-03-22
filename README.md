@@ -21,14 +21,6 @@ using: j's detection, OpenCV, Selenium
 - **Anti-Detection Engine** (IP rotation and mouse obfuscation)  
 - **Computer Vision Pipeline** (OpenCV + brute-force detection)  
 
-### Technical Stack  
-- Python, Selenium, OpenCV, Proxy APIs, 2Captcha API  
-
-### Why This Project?  
-- Solves a real-world challenge in automating secure email account creation.  
-- Demonstrates reverse-engineering, performance optimization, and anti-detection strategies.
-- 
-### Future Roadmap  
 - **Machine Learning Integration**: Train a CNN for adaptive CAPTCHA solving (reduce brute-force reliance).  
 - **Multi-Platform Support**: Extend solver to reCAPTCHA v3 and Cloudflare Turnstile.  
 
