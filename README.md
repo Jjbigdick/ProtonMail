@@ -1,6 +1,8 @@
 # ProtonMail CAPTCHA Solver: Parallel Automation & Anti-Detection  
 
-Automated solving ProtonMail CAPTCHA (native), HCAPTCHA (currently using 2captcha API) and register account.
+Parallel Automated solving ProtonMail CAPTCHA (native), HCAPTCHA (currently using 2captcha API) and register account.
+success rate: 100% on all ProtonMail CAPTCHAs. 
+using: j's detection, OpenCV, Selenium 
 
 ### DEMO
 #### Parallel luanching three Browsers solving ProtonMail Puzzle CAPTCHA and Hcaptcha.
